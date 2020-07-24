@@ -7,7 +7,7 @@ Software development enthusiast, stargazer, amateur photographer/astrophotograph
  - Website: https://gulinux.net
  - Twitter: https://twitter.com/GuLinux
  - Instagram: https://www.instagram.com/gulinux/
- - Astrophotography: https://www.astrobin.com/gulinux
+ - Astrophotography: https://www.astrobin.com/users/gulinux/
 <!--
 **GuLinux/GuLinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
