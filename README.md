@@ -1,5 +1,13 @@
-### Hi there 👋
+Software development enthusiast, stargazer, amateur photographer/astrophotographer.
 
+🔭 Most of the software you'll find here is astronomy related.
+
+ - ✨ Current top project: [AstroPhoto Plus](https://github.com/GuLinux/AstroPhoto-Plus).
+ - Top skills: C++, Qt, Python, JS, React, Redux, Bash scripting, Docker.
+ - Website: https://gulinux.net
+ - Twitter: https://twitter.com/GuLinux
+ - Instagram: https://www.instagram.com/gulinux/
+ - Astrophotography: https://www.astrobin.com/gulinux
 <!--
 **GuLinux/GuLinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
