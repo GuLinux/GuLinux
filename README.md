@@ -2,7 +2,6 @@ Software development enthusiast, stargazer, amateur photographer/astrophotograph
 
 🔭 Most of the software you'll find here is astronomy related.
 
- - ✨ Current top project: [AstroPhoto Plus](https://github.com/GuLinux/AstroPhoto-Plus).
  - Top skills: C++, Qt, Python, JS, React, Redux, Bash scripting, Docker.
  - Website: https://gulinux.net
  - Twitter: https://twitter.com/GuLinux
