@@ -2,7 +2,7 @@ Software development enthusiast, stargazer, amateur photographer/astrophotograph
 
 🔭 Most of the software you'll find here is astronomy related.
 
- - Top skills: C++, Qt, Python, JS, React, Redux, Bash scripting, Docker.
+ - Top skills: Java, C++, Qt, Python, JS, React, Redux, Bash scripting, Docker.
  - Website: https://gulinux.net
  - Twitter: https://twitter.com/GuLinux
  - Instagram: https://www.instagram.com/gulinux/
